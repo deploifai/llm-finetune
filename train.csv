@@ -1,0 +1,1077 @@
+prompt,response,text
+give me a question on constant speed,A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m,"###Human:
+give me a question on constant speed
+
+###Assistant:
+A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m"
+"give me question on acceleration, velocity, and motion.",A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac,"###Human:
+give me question on acceleration, velocity, and motion.
+
+###Assistant:
+A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac"
+give a question on resistance,An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight,"###Human:
+give a question on resistance
+
+###Assistant:
+An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight"
+give a question on velocity,An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight,"###Human:
+give a question on velocity
+
+###Assistant:
+An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight"
+give a question on terminal velocity,When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre,"###Human:
+give a question on terminal velocity
+
+###Assistant:
+When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre"
+give question on kinematics,"A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface","###Human:
+give question on kinematics
+
+###Assistant:
+A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface"
+give a question on calculating acceleration,An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2,"###Human:
+give a question on calculating acceleration
+
+###Assistant:
+An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2"
+give a question on calculating acceleration (kinematics),"A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing","###Human:
+give a question on calculating acceleration (kinematics)
+
+###Assistant:
+A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing"
+give a question on kinematics,"A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen","###Human:
+give a question on kinematics
+
+###Assistant:
+A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen"
+give a question on kinematics where i need to calculate acceleration,A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr,"###Human:
+give a question on kinematics where i need to calculate acceleration
+
+###Assistant:
+A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr"
+give me a question on acceleration and velocity,"Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed","###Human:
+give me a question on acceleration and velocity
+
+###Assistant:
+Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed"
+give an o levels kinematics question,"A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2","###Human:
+give an o levels kinematics question
+
+###Assistant:
+A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2"
+give a question on kinematics where i need to calculate either speed or velocity,"When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of ","###Human:
+give a question on kinematics where i need to calculate either speed or velocity
+
+###Assistant:
+When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of "
+ask me some theoretical questions on kinematics,What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body,"###Human:
+ask me some theoretical questions on kinematics
+
+###Assistant:
+What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body"
+give a formula related kinematics question,Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed ,"###Human:
+give a formula related kinematics question
+
+###Assistant:
+Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed "
+give a knowledge/theoretical question on kinematics,An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant.,"###Human:
+give a knowledge/theoretical question on kinematics
+
+###Assistant:
+An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant."
+give question on force and acceleration,A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2,"###Human:
+give question on force and acceleration
+
+###Assistant:
+A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2"
+"give a question on friction, motion, and force",In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on ,"###Human:
+give a question on friction, motion, and force
+
+###Assistant:
+In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on "
+a question on acceleration of a body,"An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 ","###Human:
+a question on acceleration of a body
+
+###Assistant:
+An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 "
+"give a theoretical question on forces, newton third law",Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the ,"###Human:
+give a theoretical question on forces, newton third law
+
+###Assistant:
+Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the "
+give a question on resultant force,In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a ,"###Human:
+give a question on resultant force
+
+###Assistant:
+In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a "
+question on force and motion,A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate,"###Human:
+question on force and motion
+
+###Assistant:
+A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate"
+give a theoretical question on dynamics,"n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle","###Human:
+give a theoretical question on dynamics
+
+###Assistant:
+n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle"
+give a question on acceleration of a body,A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N,"###Human:
+give a question on acceleration of a body
+
+###Assistant:
+A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N"
+give a question on forces and motion,"A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i","###Human:
+give a question on forces and motion
+
+###Assistant:
+A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i"
+"question on forces, dynamics, motion","A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight ","###Human:
+question on forces, dynamics, motion
+
+###Assistant:
+A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight "
+give a question on forces applied on an object,An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2,"###Human:
+give a question on forces applied on an object
+
+###Assistant:
+An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2"
+give a question on forces on dynamics,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces on dynamics
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+give a question on forces being applied on an object and i need to find the direction,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces being applied on an object and i need to find the direction
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+a theoretical question of forces applied on an object,A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre,"###Human:
+a theoretical question of forces applied on an object
+
+###Assistant:
+A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre"
+a question of forces applied on electrons,What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus,"###Human:
+a question of forces applied on electrons
+
+###Assistant:
+What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus"
+a simple question on dynamics,"Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N","###Human:
+a simple question on dynamics
+
+###Assistant:
+Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N"
+"a simple question related to dynamics, force, motion, and friction","When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th","###Human:
+a simple question related to dynamics, force, motion, and friction
+
+###Assistant:
+When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th"
+"Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.","A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2","###Human:
+Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.
+
+###Assistant:
+A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2"
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes,"A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in","###Human:
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes
+
+###Assistant:
+A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in"
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options,"Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ","###Human:
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options
+
+###Assistant:
+Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ"
+"Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios","A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b","###Human:
+Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios
+
+###Assistant:
+A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b"
+"Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent","Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s","###Human:
+Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent
+
+###Assistant:
+Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s"
+"Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options","Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight","###Human:
+Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options
+
+###Assistant:
+Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight"
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.,"Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion.","###Human:
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.
+
+###Assistant:
+Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion."
+"Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options","A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m","###Human:
+Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options
+
+###Assistant:
+A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m"
+"Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl","Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice","###Human:
+Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl
+
+###Assistant:
+Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice"
+"Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p","A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g","###Human:
+Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p
+
+###Assistant:
+A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g"
+give me a question on constant speed,A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m,"###Human:
+give me a question on constant speed
+
+###Assistant:
+A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m"
+"give me question on acceleration, velocity, and motion.",A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac,"###Human:
+give me question on acceleration, velocity, and motion.
+
+###Assistant:
+A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac"
+give a question on resistance,An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight,"###Human:
+give a question on resistance
+
+###Assistant:
+An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight"
+give a question on velocity,An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight,"###Human:
+give a question on velocity
+
+###Assistant:
+An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight"
+give a question on terminal velocity,When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre,"###Human:
+give a question on terminal velocity
+
+###Assistant:
+When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre"
+give question on kinematics,"A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface","###Human:
+give question on kinematics
+
+###Assistant:
+A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface"
+give a question on calculating acceleration,An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2,"###Human:
+give a question on calculating acceleration
+
+###Assistant:
+An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2"
+give a question on calculating acceleration (kinematics),"A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing","###Human:
+give a question on calculating acceleration (kinematics)
+
+###Assistant:
+A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing"
+give a question on kinematics,"A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen","###Human:
+give a question on kinematics
+
+###Assistant:
+A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen"
+give a question on kinematics where i need to calculate acceleration,A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr,"###Human:
+give a question on kinematics where i need to calculate acceleration
+
+###Assistant:
+A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr"
+give me a question on acceleration and velocity,"Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed","###Human:
+give me a question on acceleration and velocity
+
+###Assistant:
+Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed"
+give an o levels kinematics question,"A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2","###Human:
+give an o levels kinematics question
+
+###Assistant:
+A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2"
+give a question on kinematics where i need to calculate either speed or velocity,"When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of ","###Human:
+give a question on kinematics where i need to calculate either speed or velocity
+
+###Assistant:
+When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of "
+ask me some theoretical questions on kinematics,What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body,"###Human:
+ask me some theoretical questions on kinematics
+
+###Assistant:
+What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body"
+give a formula related kinematics question,Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed ,"###Human:
+give a formula related kinematics question
+
+###Assistant:
+Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed "
+give a knowledge/theoretical question on kinematics,An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant.,"###Human:
+give a knowledge/theoretical question on kinematics
+
+###Assistant:
+An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant."
+give question on force and acceleration,A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2,"###Human:
+give question on force and acceleration
+
+###Assistant:
+A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2"
+"give a question on friction, motion, and force",In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on ,"###Human:
+give a question on friction, motion, and force
+
+###Assistant:
+In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on "
+a question on acceleration of a body,"An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 ","###Human:
+a question on acceleration of a body
+
+###Assistant:
+An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 "
+"give a theoretical question on forces, newton third law",Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the ,"###Human:
+give a theoretical question on forces, newton third law
+
+###Assistant:
+Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the "
+give a question on resultant force,In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a ,"###Human:
+give a question on resultant force
+
+###Assistant:
+In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a "
+question on force and motion,A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate,"###Human:
+question on force and motion
+
+###Assistant:
+A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate"
+give a theoretical question on dynamics,"n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle","###Human:
+give a theoretical question on dynamics
+
+###Assistant:
+n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle"
+give a question on acceleration of a body,A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N,"###Human:
+give a question on acceleration of a body
+
+###Assistant:
+A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N"
+give a question on forces and motion,"A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i","###Human:
+give a question on forces and motion
+
+###Assistant:
+A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i"
+"question on forces, dynamics, motion","A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight ","###Human:
+question on forces, dynamics, motion
+
+###Assistant:
+A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight "
+give a question on forces applied on an object,An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2,"###Human:
+give a question on forces applied on an object
+
+###Assistant:
+An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2"
+give a question on forces on dynamics,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces on dynamics
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+give a question on forces being applied on an object and i need to find the direction,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces being applied on an object and i need to find the direction
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+a theoretical question of forces applied on an object,A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre,"###Human:
+a theoretical question of forces applied on an object
+
+###Assistant:
+A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre"
+a question of forces applied on electrons,What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus,"###Human:
+a question of forces applied on electrons
+
+###Assistant:
+What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus"
+a simple question on dynamics,"Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N","###Human:
+a simple question on dynamics
+
+###Assistant:
+Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N"
+"a simple question related to dynamics, force, motion, and friction","When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th","###Human:
+a simple question related to dynamics, force, motion, and friction
+
+###Assistant:
+When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th"
+"Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.","A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2","###Human:
+Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.
+
+###Assistant:
+A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2"
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes,"A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in","###Human:
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes
+
+###Assistant:
+A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in"
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options,"Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ","###Human:
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options
+
+###Assistant:
+Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ"
+"Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios","A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b","###Human:
+Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios
+
+###Assistant:
+A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b"
+"Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent","Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s","###Human:
+Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent
+
+###Assistant:
+Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s"
+"Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options","Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight","###Human:
+Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options
+
+###Assistant:
+Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight"
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.,"Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion.","###Human:
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.
+
+###Assistant:
+Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion."
+"Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options","A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m","###Human:
+Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options
+
+###Assistant:
+A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m"
+"Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl","Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice","###Human:
+Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl
+
+###Assistant:
+Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice"
+"Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p","A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g","###Human:
+Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p
+
+###Assistant:
+A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g"
+give me a question on constant speed,A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m,"###Human:
+give me a question on constant speed
+
+###Assistant:
+A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m"
+"give me question on acceleration, velocity, and motion.",A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac,"###Human:
+give me question on acceleration, velocity, and motion.
+
+###Assistant:
+A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac"
+give a question on resistance,An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight,"###Human:
+give a question on resistance
+
+###Assistant:
+An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight"
+give a question on velocity,An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight,"###Human:
+give a question on velocity
+
+###Assistant:
+An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight"
+give a question on terminal velocity,When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre,"###Human:
+give a question on terminal velocity
+
+###Assistant:
+When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre"
+give question on kinematics,"A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface","###Human:
+give question on kinematics
+
+###Assistant:
+A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface"
+give a question on calculating acceleration,An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2,"###Human:
+give a question on calculating acceleration
+
+###Assistant:
+An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2"
+give a question on calculating acceleration (kinematics),"A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing","###Human:
+give a question on calculating acceleration (kinematics)
+
+###Assistant:
+A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing"
+give a question on kinematics,"A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen","###Human:
+give a question on kinematics
+
+###Assistant:
+A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen"
+give a question on kinematics where i need to calculate acceleration,A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr,"###Human:
+give a question on kinematics where i need to calculate acceleration
+
+###Assistant:
+A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr"
+give me a question on acceleration and velocity,"Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed","###Human:
+give me a question on acceleration and velocity
+
+###Assistant:
+Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed"
+give an o levels kinematics question,"A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2","###Human:
+give an o levels kinematics question
+
+###Assistant:
+A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2"
+give a question on kinematics where i need to calculate either speed or velocity,"When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of ","###Human:
+give a question on kinematics where i need to calculate either speed or velocity
+
+###Assistant:
+When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of "
+ask me some theoretical questions on kinematics,What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body,"###Human:
+ask me some theoretical questions on kinematics
+
+###Assistant:
+What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body"
+give a formula related kinematics question,Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed ,"###Human:
+give a formula related kinematics question
+
+###Assistant:
+Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed "
+give a knowledge/theoretical question on kinematics,An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant.,"###Human:
+give a knowledge/theoretical question on kinematics
+
+###Assistant:
+An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant."
+give question on force and acceleration,A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2,"###Human:
+give question on force and acceleration
+
+###Assistant:
+A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2"
+"give a question on friction, motion, and force",In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on ,"###Human:
+give a question on friction, motion, and force
+
+###Assistant:
+In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on "
+a question on acceleration of a body,"An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 ","###Human:
+a question on acceleration of a body
+
+###Assistant:
+An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 "
+"give a theoretical question on forces, newton third law",Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the ,"###Human:
+give a theoretical question on forces, newton third law
+
+###Assistant:
+Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the "
+give a question on resultant force,In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a ,"###Human:
+give a question on resultant force
+
+###Assistant:
+In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a "
+question on force and motion,A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate,"###Human:
+question on force and motion
+
+###Assistant:
+A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate"
+give a theoretical question on dynamics,"n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle","###Human:
+give a theoretical question on dynamics
+
+###Assistant:
+n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle"
+give a question on acceleration of a body,A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N,"###Human:
+give a question on acceleration of a body
+
+###Assistant:
+A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N"
+give a question on forces and motion,"A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i","###Human:
+give a question on forces and motion
+
+###Assistant:
+A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i"
+"question on forces, dynamics, motion","A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight ","###Human:
+question on forces, dynamics, motion
+
+###Assistant:
+A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight "
+give a question on forces applied on an object,An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2,"###Human:
+give a question on forces applied on an object
+
+###Assistant:
+An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2"
+give a question on forces on dynamics,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces on dynamics
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+give a question on forces being applied on an object and i need to find the direction,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces being applied on an object and i need to find the direction
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+a theoretical question of forces applied on an object,A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre,"###Human:
+a theoretical question of forces applied on an object
+
+###Assistant:
+A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre"
+a question of forces applied on electrons,What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus,"###Human:
+a question of forces applied on electrons
+
+###Assistant:
+What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus"
+a simple question on dynamics,"Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N","###Human:
+a simple question on dynamics
+
+###Assistant:
+Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N"
+"a simple question related to dynamics, force, motion, and friction","When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th","###Human:
+a simple question related to dynamics, force, motion, and friction
+
+###Assistant:
+When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th"
+"Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.","A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2","###Human:
+Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.
+
+###Assistant:
+A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2"
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes,"A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in","###Human:
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes
+
+###Assistant:
+A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in"
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options,"Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ","###Human:
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options
+
+###Assistant:
+Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ"
+"Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios","A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b","###Human:
+Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios
+
+###Assistant:
+A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b"
+"Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent","Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s","###Human:
+Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent
+
+###Assistant:
+Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s"
+"Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options","Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight","###Human:
+Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options
+
+###Assistant:
+Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight"
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.,"Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion.","###Human:
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.
+
+###Assistant:
+Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion."
+"Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options","A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m","###Human:
+Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options
+
+###Assistant:
+A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m"
+"Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl","Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice","###Human:
+Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl
+
+###Assistant:
+Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice"
+"Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p","A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g","###Human:
+Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p
+
+###Assistant:
+A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g"
+give me a question on constant speed,A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m,"###Human:
+give me a question on constant speed
+
+###Assistant:
+A student wal ks at a constant speed. He takes 100 s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50s? A 64m B 80m C 128m D 256m"
+"give me question on acceleration, velocity, and motion.",A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac,"###Human:
+give me question on acceleration, velocity, and motion.
+
+###Assistant:
+A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey? A Both the ac"
+give a question on resistance,An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight,"###Human:
+give a question on resistance
+
+###Assistant:
+An object falls from rest through the air and the air resistance on it increases. The object reaches terminal velocity. Which quantity decreases until its terminal velocity is reached? A acceleration B kinetic energy C speed D weight"
+give a question on velocity,An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight,"###Human:
+give a question on velocity
+
+###Assistant:
+An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached? A acceleration B air resistance C resultant force D weight"
+give a question on terminal velocity,When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre,"###Human:
+give a question on terminal velocity
+
+###Assistant:
+When a heavy coin falls a short distance towards the ground it does not reach terminal velocity. Why is this? A The coin has not hit the ground. B The weight of the coin equals the air resistance. C The weight of the coin increases as air resistance incre"
+give question on kinematics,"A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface","###Human:
+give question on kinematics
+
+###Assistant:
+A car travels along a road at 50km/ h. The driver applies the same braking force at the same place on a day when the surface is dry and then on a day when the road is wet. On the wet surface, how many of these distances are greater than on the dry surface"
+give a question on calculating acceleration,An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2,"###Human:
+give a question on calculating acceleration
+
+###Assistant:
+An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5 m/ s velocity at Q = 12 m/ s What is the acceleration? A 0.5m/ s^2 B 0.7 m/ s^2 C 1.2 m/ s^2 D 1.7 m/ s^2"
+give a question on calculating acceleration (kinematics),"A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing","###Human:
+give a question on calculating acceleration (kinematics)
+
+###Assistant:
+A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball? A constant and equal to 10m/ s^2 B constant but less than 10m/ s^2 C decreasing D increasing"
+give a question on kinematics,"A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen","###Human:
+give a question on kinematics
+
+###Assistant:
+A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happen"
+give a question on kinematics where i need to calculate acceleration,A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr,"###Human:
+give a question on kinematics where i need to calculate acceleration
+
+###Assistant:
+A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall? A constant at 0m/s^2 B constant at 10m/s^2 C starting at 0 m/s^2  and increasing to 10m/s^2 D starting at 10m/s^2  and decr"
+give me a question on acceleration and velocity,"Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed","###Human:
+give me a question on acceleration and velocity
+
+###Assistant:
+Which vehicle has an acceleration of 5m/s^2 ? A a bicycle, when its speed changes from rest to 2.5m/s in 2s B a car, when its speed changes from rest to 15m/s in 5s C a lorry, when its speed changes from rest to 20m/s in 15 s D a motorbike, when its speed"
+give an o levels kinematics question,"A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2","###Human:
+give an o levels kinematics question
+
+###Assistant:
+A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m / s and two seconds later the speed is 4.0m/ s. What is the acceleration of the trolley? A 1.5m/ s^2 B 2.0m/ s^2 C 2.5 m/ s^2 D 5.0 m/ s^2"
+give a question on kinematics where i need to calculate either speed or velocity,"When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of ","###Human:
+give a question on kinematics where i need to calculate either speed or velocity
+
+###Assistant:
+When a block of wood of mass^2 kg is pushed along the horizontal flat surface of a bench, the friction force is 4N. When the block is pushed along the bench with a force of 10N, it moves with a constant A speed of 3m/s. B speed of 5m/s. C acceleration of "
+ask me some theoretical questions on kinematics,What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body,"###Human:
+ask me some theoretical questions on kinematics
+
+###Assistant:
+What must change when a body is accelerating? A the force acting on the body B the mass of the body C the speed of the body D the velocity of the body"
+give a formula related kinematics question,Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed ,"###Human:
+give a formula related kinematics question
+
+###Assistant:
+Which quantity X is calculated using this equation? X = change in velocity/ time taken. A acceleration B average velocity C distance travelled D speed "
+give a knowledge/theoretical question on kinematics,An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant.,"###Human:
+give a knowledge/theoretical question on kinematics
+
+###Assistant:
+An object is falling under gravity with terminal velocity. What is happening to its speed? A It is decreasing to a lower value. B It is decreasing to zero. C It is increasing. D It is staying constant."
+give question on force and acceleration,A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2,"###Human:
+give question on force and acceleration
+
+###Assistant:
+A man pulls a sledge of mass^25kg across level ground with a horizontal force of 60N. A constant force of friction of 20N acts on the sledge. What is the acceleration of the sledge? A 0.63m/s^2 B 1.6m/ s^2 C 2.4 m/ s^2 D 3.2 m/ s^2"
+"give a question on friction, motion, and force",In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on ,"###Human:
+give a question on friction, motion, and force
+
+###Assistant:
+In which example does friction act in the direction of forward motion of the object on which it acts? A on a suitcase accelerating on a conveyor belt B on sandpaper rubbing a wooden block C on the skis of a skier accelerating downhill on smooth snow D on "
+a question on acceleration of a body,"An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 ","###Human:
+a question on acceleration of a body
+
+###Assistant:
+An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60N upwards. What is the acceleration of the apple at this point? A 4.0 m/s^2 B 6.0 m/s^2 C 10m/s^2 D 14m/s^2 "
+"give a theoretical question on forces, newton third law",Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the ,"###Human:
+give a theoretical question on forces, newton third law
+
+###Assistant:
+Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the "
+give a question on resultant force,In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a ,"###Human:
+give a question on resultant force
+
+###Assistant:
+In which situation is the resultant force on the body equal to zero? A a car turning a corner at constant speed B a rock falling freely on the Moon C a train going up a straight hill at constant speed in a straight line D an aircraft accelerating along a "
+question on force and motion,A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate,"###Human:
+question on force and motion
+
+###Assistant:
+A satellite is orbiting the Earth. What is the direction of the force on the satellite causing this circular motion? A. away from the centre of the Earth B. in the direction of motion of the satellite C. in the opposite direction to the motion of the sate"
+give a theoretical question on dynamics,"n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle","###Human:
+give a theoretical question on dynamics
+
+###Assistant:
+n a model of an atom, electrons move in circular orbits around a nucleus. Which statement about the electrons is correct? A The electrostatic force on the electrons is away from the nucleus. B The acceleration of the electrons is towards the central nucle"
+give a question on acceleration of a body,A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N,"###Human:
+give a question on acceleration of a body
+
+###Assistant:
+A car of mass 1500kg travels along a horizontal road. It accelerates steadily from 10m/ s to 25 m/ s in 5.0s. What is the force needed to produce this acceleration? A 300N B 500N C 4500N D 7500N"
+give a question on forces and motion,"A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i","###Human:
+give a question on forces and motion
+
+###Assistant:
+A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare? A The force on the foot is equal to the force on the ball and i"
+"question on forces, dynamics, motion","A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight ","###Human:
+question on forces, dynamics, motion
+
+###Assistant:
+A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground? A downwards and equal to the weight of the stone B downwards and larger than the weight "
+give a question on forces applied on an object,An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2,"###Human:
+give a question on forces applied on an object
+
+###Assistant:
+An object has a mass of 15 kg. It is pushed horizontally by a force of 40 N. The frictional force is 10N. What is the acceleration of the object? A 0.50m/ s 2 B 1.5 m/ s 2 C 2.0 m/ s 2 D 2.7 m/ s 2"
+give a question on forces on dynamics,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces on dynamics
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+give a question on forces being applied on an object and i need to find the direction,A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance,"###Human:
+give a question on forces being applied on an object and i need to find the direction
+
+###Assistant:
+A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal? A the braking distance B the braking force C the stopping distance D the thinking distance"
+a theoretical question of forces applied on an object,A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre,"###Human:
+a theoretical question of forces applied on an object
+
+###Assistant:
+A wooden block is pushed across a table at constant speed. Which statement is correct? A. The frictional force increases as the block moves at constant speed. B The frictional force is equal and opposite to the pushing force. C The frictional force is gre"
+a question of forces applied on electrons,What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus,"###Human:
+a question of forces applied on electrons
+
+###Assistant:
+What keeps an electron moving in a circle around the nucleus of an atom? A a gravitational force away from the nucleus B a gravitational force towards the nucleus C an electrostatic force away from the nucleus D an electrostatic force towards the nucleus"
+a simple question on dynamics,"Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N","###Human:
+a simple question on dynamics
+
+###Assistant:
+Forces of 30N and 50N act on the same body, but in different directions. Which value could not be the resultant force on the body? A 10N B 30N C 50N D 70N"
+"a simple question related to dynamics, force, motion, and friction","When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th","###Human:
+a simple question related to dynamics, force, motion, and friction
+
+###Assistant:
+When a body moves across a rough surface, a frictional force is produced. Which statement about this force is always true? A It acts in the direction of the motion. B It is equal in value to the force producing the motion. C It makes the body recoil in th"
+"Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.","A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2","###Human:
+Compose a basic multiple-choice physics problem that revolves around calculating the acceleration of an object on a rough surface, taking into account applied force and frictional force. Provide four possible answers.
+
+###Assistant:
+A force of 20 N pushes an object of mass 5.0 kg along a rough horizontal surface where the frictional force is 5.0 N.
+What is the acceleration of the object?
+A 1.0m/s2 B 2.0m/s2 C 3.0m/s2 D 4.0m/s2"
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes,"A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in","###Human:
+Design a multiple-choice physics question centered on the consequences of a force acting on a body in circular motion suddenly disappearing. Include four potential outcomes
+
+###Assistant:
+A body P moves in a circle around a point S. A force F keeps it moving in the circle. What happens if the force F suddenly disappears?
+A P moves directly towards S.
+B P moves in a circle closer to S.
+C P moves away from S in a curved path.
+D P goes off in"
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options,"Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ","###Human:
+Construct a multiple-choice question focusing on identifying the correct statement of Newton's third law of motion from a list of four options
+
+###Assistant:
+Which is a statement of Newton’s third law of motion?
+A Every force causes a reaction.
+B If there is no resultant force on a body then there is no acceleration.
+C The forces acting on a body are always equal and opposite.
+D To every action there is an equ"
+"Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios","A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b","###Human:
+Craft a multiple-choice physics question that delves into the effects of road conditions, specifically the presence of oil, on a car's braking capabilities. Include four possible scenarios
+
+###Assistant:
+A car is travelling at constant speed along a road and drives over a large patch of oil. The driver applies the brakes to stop the car.
+Compared to braking on a dry road, what may happen?
+A The car slows down more quickly because of the greater friction b"
+"Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent","Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s","###Human:
+Formulate a multiple-choice question involving two trolleys connected by a spring, where one trolley has a known acceleration and mass relative to the other. The query should be about determining the acceleration of the second trolley. Include four potent
+
+###Assistant:
+Trolley X and trolley Y are joined by a stretched spring. Trolley X has twice the mass of trolley Y. 
+When the trolleys are released, the acceleration of X is 2 m / s2 to the right. What is the initial acceleration of trolley Y to the left?
+A 1m/s2 B 2m/s"
+"Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options","Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight","###Human:
+Design a multiple-choice physics question that asks about the inherent property of a body that opposes alterations in its state, either from rest or motion. Provide four possible attributes as options
+
+###Assistant:
+Which property of a body resists change from a state of rest or of motion? A density
+B mass C volume D weight"
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.,"Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion.","###Human:
+Construct a multiple-choice question that focuses on identifying the accurate definition or characteristic of 'mass' from a set of four options.
+
+###Assistant:
+Which statement about mass is correct?
+A Mass is density divided by volume.
+B Mass is the amount of space occupied by a body.
+C Mass is weight multiplied by the gravitational field strength.
+D Mass resists a change in motion."
+"Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options","A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m","###Human:
+Draft a multiple-choice question assessing knowledge on the concepts of gravity, mass, and weight by asking the reader to identify the incorrect statement among four given options
+
+###Assistant:
+A student produces some revision notes on gravity, mass and weight. Which statement is not correct?
+A A gravitational field is a region in which a mass experiences a gravitational force.
+B Gravitational field strength has the unit of N / kg.
+C Mass is a m"
+"Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl","Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice","###Human:
+Develop a multiple-choice physics question comparing the densities of two differently sized copper cylinders, based on given relative dimensions. The query should prompt the reader to determine the correct relationship between the densities of the two cyl
+
+###Assistant:
+Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?
+A The density of cylinder P is four times that of cylinder Q.
+B The density of cylinder P is twice"
+"Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p","A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g","###Human:
+Construct a multiple-choice physics question centered on the concept of density. Given the mass and density of a stone, ask the reader to determine the mass of a liquid (with provided density) that would occupy the same volume as the stone. Provide four p
+
+###Assistant:
+A stone has a mass of 390g and a density of 2.7g/cm3.
+Cooking oil has a density of 0.90 g / cm3.
+Which mass of oil has the same volume as the stone?
+A 130g B 160g C 900g D 1200g"
