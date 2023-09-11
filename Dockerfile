@@ -1,16 +1,15 @@
-FROM python:3.10-slim
+FROM pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 
-WORKDIR llama/try3/
+WORKDIR llm
 
-COPY draft-3 draft-3
-
-# Copy the requirements.txt file to the working directory
-COPY requirements.txt .
+COPY v3 v3
 
 # Install the dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install gradio transformers
 
 # Copy the rest of the application code to the working directory
-COPY app.py .
+COPY app-gpu.py .
 
-CMD [ "python", "app.py" ]
+EXPOSE 7860
+
+CMD [ "python", "app-gpu.py" ]
